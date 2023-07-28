@@ -1,0 +1,15 @@
+/home/vag/Desktop/seminar_03_HW/task_02/bin/Debug/net7.0/task_02
+/home/vag/Desktop/seminar_03_HW/task_02/bin/Debug/net7.0/task_02.deps.json
+/home/vag/Desktop/seminar_03_HW/task_02/bin/Debug/net7.0/task_02.runtimeconfig.json
+/home/vag/Desktop/seminar_03_HW/task_02/bin/Debug/net7.0/task_02.dll
+/home/vag/Desktop/seminar_03_HW/task_02/bin/Debug/net7.0/task_02.pdb
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.csproj.AssemblyReference.cache
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.AssemblyInfoInputs.cache
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.AssemblyInfo.cs
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.csproj.CoreCompileInputs.cache
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.dll
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/refint/task_02.dll
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.pdb
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/task_02.genruntimeconfig.cache
+/home/vag/Desktop/seminar_03_HW/task_02/obj/Debug/net7.0/ref/task_02.dll
